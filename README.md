@@ -1,6 +1,6 @@
-# biye
+# graduate
 
-> biye
+> graduate
 
 ## Build Setup
 
